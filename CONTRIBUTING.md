@@ -14,7 +14,7 @@
 * No multiple new-lines in a row.
 * No CRLF line endings. Set git's "core.autocrlf" to true.
 * No line length limit or midstatement new-lines.
-* There needs to a be a new lines at the end of every file.
+* There needs to a be a new line at the end of every file.
 
 ## How to Git
 Once you've forked our repository on GitHub, you can clone your fork to your own machine to make changes:
